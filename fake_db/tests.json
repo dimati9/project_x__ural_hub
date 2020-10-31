@@ -1,0 +1,17 @@
+{
+  "date":"01.11.2020",
+  "tests" : [
+    {
+      "id" : 1,
+      "name" : "Тест по графическому дизайну #1",
+      "location" : "online",
+      "tags" : ["дизайн, графический дизайн, фигма, figma, photoshop"]
+    },
+    {
+      "id" : 3,
+      "name" : "Тест по JavaScript #1",
+      "location" : "online",
+      "tags" : ["программирование, веб, начальный уровень, javascript"]
+    }
+  ]
+}

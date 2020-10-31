@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    width: 558px;
+    height: 1200px;
+    background-image: url("/images/htc_bg.png");
+    margin: 0 auto;
+}
