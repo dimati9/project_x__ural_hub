@@ -29,7 +29,7 @@ body {
 
 
 #site {
-    width: 528px;
+    width: 529px;
     height: 940px;
     background-color: #E5E5E5;
     position: relative;
@@ -117,7 +117,39 @@ body {
     width: 100%;
 }
 
+.main_cabinet {
+    display: none;
+}
+.main_cabinet .top {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 329px;
+    z-index: -1;
+    background: linear-gradient(252.19deg, #42ECD8 14.64%, #B4D4FF 136.99%);
+}
 
+.cabinet_panel {
+    z-index: 3;
+}
+
+.cabiner_events_slider {
+    z-index: 2;
+    max-width: 528px;
+    display: flex;
+    overflow: hidden;
+}
+
+.main_cabinet h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    padding-top: 71px;
+    color: #2F3676;
+}
 
 .button_continue {
     width: 221px;

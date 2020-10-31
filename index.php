@@ -299,10 +299,435 @@ require_once "settings.php";
 			</div>
 			<button class="button_continue button_info_final">Продожить</button>
 		</div>
+		<div class="main_cabinet">
+			<div class="top"></div>
+			<div class="cabinet_panel">
+				<h1>Актуальные события</h1>
+				<p>Посмотреть все</p>
+				<span class="cabinet_h4">
+					Рекомендовано на основе ваших предпочтений
+				</span>
+				<div class="cabiner_events_slider">
+					<div class="events_box">
+						<svg width="156" height="223" viewBox="0 0 156 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<g filter="url(#filter0_d)">
+								<rect x="6" y="6" width="136" height="203" rx="22" fill="url(#paint0_linear)"/>
+								<circle cx="27.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+							</g>
+							<defs>
+								<filter id="filter0_d" x="0" y="0" width="156" height="223" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+									<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+									<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+									<feOffset dx="4" dy="4"/>
+									<feGaussianBlur stdDeviation="5"/>
+									<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+									<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+									<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+								</filter>
+								<linearGradient id="paint0_linear" x1="43.5" y1="-13.5" x2="122.5" y2="209" gradientUnits="userSpaceOnUse">
+									<stop stop-color="#7BF2E9"/>
+									<stop offset="1" stop-color="#8A64EB"/>
+								</linearGradient>
+							</defs>
+						</svg>
+
+					</div>
+					<div class="events_box">
+						<svg width="156" height="223" viewBox="0 0 156 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<g filter="url(#filter0_d)">
+								<rect x="6" y="6" width="136" height="203" rx="22" fill="url(#paint0_linear)"/>
+								<circle cx="27.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+							</g>
+							<defs>
+								<filter id="filter0_d" x="0" y="0" width="156" height="223" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+									<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+									<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+									<feOffset dx="4" dy="4"/>
+									<feGaussianBlur stdDeviation="5"/>
+									<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+									<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+									<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+								</filter>
+								<linearGradient id="paint0_linear" x1="43.5" y1="-13.5" x2="122.5" y2="209" gradientUnits="userSpaceOnUse">
+									<stop stop-color="#7BF2E9"/>
+									<stop offset="1" stop-color="#8A64EB"/>
+								</linearGradient>
+							</defs>
+						</svg>
+
+					</div>
+					<div class="events_box">
+						<svg width="156" height="223" viewBox="0 0 156 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<g filter="url(#filter0_d)">
+								<rect x="6" y="6" width="136" height="203" rx="22" fill="url(#paint0_linear)"/>
+								<circle cx="27.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+							</g>
+							<defs>
+								<filter id="filter0_d" x="0" y="0" width="156" height="223" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+									<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+									<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+									<feOffset dx="4" dy="4"/>
+									<feGaussianBlur stdDeviation="5"/>
+									<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+									<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+									<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+								</filter>
+								<linearGradient id="paint0_linear" x1="43.5" y1="-13.5" x2="122.5" y2="209" gradientUnits="userSpaceOnUse">
+									<stop stop-color="#7BF2E9"/>
+									<stop offset="1" stop-color="#8A64EB"/>
+								</linearGradient>
+							</defs>
+						</svg>
+
+					</div>
+					<div class="events_box">
+						<svg width="156" height="223" viewBox="0 0 156 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<g filter="url(#filter0_d)">
+								<rect x="6" y="6" width="136" height="203" rx="22" fill="url(#paint0_linear)"/>
+								<circle cx="27.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="24.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="33.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="62.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="71.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="43.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="52.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="27.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="37.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="47.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="57.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="81.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="67.5" cy="90.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="128.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="137.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="166.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="175.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="147.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="156.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="89.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="99.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="109.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="119.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="185.5" r="1.5" fill="white" fill-opacity="0.5"/>
+								<circle cx="129.5" cy="194.5" r="1.5" fill="white" fill-opacity="0.5"/>
+							</g>
+							<defs>
+								<filter id="filter0_d" x="0" y="0" width="156" height="223" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+									<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+									<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+									<feOffset dx="4" dy="4"/>
+									<feGaussianBlur stdDeviation="5"/>
+									<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+									<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+									<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+								</filter>
+								<linearGradient id="paint0_linear" x1="43.5" y1="-13.5" x2="122.5" y2="209" gradientUnits="userSpaceOnUse">
+									<stop stop-color="#7BF2E9"/>
+									<stop offset="1" stop-color="#8A64EB"/>
+								</linearGradient>
+							</defs>
+						</svg>
+
+					</div>
+				</div>
+			</div>
+		</div>
 
 	</div>
 </div>
 <div class="bg"></div>
+<script src="scripts/jQuery.UniSlider.js"></script>
 <script src="scripts/script.js"></script>
 
 

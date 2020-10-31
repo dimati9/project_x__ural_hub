@@ -2,6 +2,8 @@ $(function() {
     var left;
     var left2;
     var counts = 5;
+
+
     $('.element').draggable({
         start: function() {
             left = $(this).offset().left;
@@ -58,7 +60,7 @@ $(function() {
 
     $('.button_info_final').on('click', function () {
         $('.info__final_screen').hide();
-        $('.block').show();
+        $('.main_cabinet').show();
     })
 
 
