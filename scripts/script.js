@@ -55,12 +55,42 @@ $(function() {
 
     $('.button_thee').on('click', function () {
         $('.start_screen').hide();
+        $('.you_integestings').show();
+    })
+
+    $('.button_you_integestings').on('click', function () {
+        $('.you_integestings').hide();
+        $('.you_maybi_like').show();
+    })
+
+    $('.button_profs').on('click', function () {
+        $('.you_maybi_like').hide();
         $('.info__final_screen').show();
+    })
+
+    $('.close_modal').on('click', function (e) {
+        e.preventDefault();
+        $('.prof_modal').hide();
+    })
+
+    $('.close_modal').on('click', function (e) {
+        e.preventDefault();
+        $('.prof_modal').hide();
+    })
+
+    $('.more').on('click', function (e) {
+        e.preventDefault();
+        $('.prof_modal').show();
+    })
+
+    $('.prof_block_h2').on('click', function (e) {
+        e.preventDefault();
+        $('.prof_modal').show();
     })
 
     $('.button_info_final').on('click', function () {
         $('.info__final_screen').hide();
-        $('.main_cabinet').show();
+        $('.lc').show();
     })
 
 
